@@ -1,0 +1,446 @@
+PMID- 27463056
+OWN - NLM
+STAT- Publisher
+DA  - 20160727
+LR  - 20160727
+IS  - 1747-0803 (Electronic)
+IS  - 1747-079X (Linking)
+DP  - 2016 Jul 27
+TI  - Expansion Characteristics of Stents Used in Congenital Heart Disease: Serial
+      Dilation Offers Improved Expansion Potential Compared to Direct Dilation: Results
+      from a Pediatric Interventional Cardiology Early Career Society (PICES)
+      Investigation.
+LID - 10.1111/chd.12399 [doi]
+AB  - OBJECTIVE: Intravascular, stents are now routinely used to treat young patients
+      with vascular stenoses. Future stent redilations are often necessary to account
+      for somatic growth. The purpose of this study was to compile a database of
+      characteristics for stents commonly used in the treatment of congenital heart
+      disease patients, and compare serial dilation to direct dilation to the maximal
+      diameter. DESIGN: A standardized bench testing protocol was established and
+      utilized in the assessment of all stents. Ultra high pressure balloons were used
+      to serially dilate each stent by set increments until the stent reached at least
+      24 mm in diameter, developed a napkin-ring configuration, or fractured. Length
+      and diameter of each stent were measured at baseline and following each stage of
+      dilation. Maximal stent diameters, foreshortening properties, and ability to
+      fracture were reported. Stents were then tested for direct dilation from the
+      primary diameter to the maximal diameter, and the same data was obtained.
+      RESULTS: A total of 127 stents were bench-tested, 80 of which were serially
+      dilated and 47 directly dilated. Most premounted stents could be serially dilated
+      to approximately twice their stated nominal diameter. All tested unmounted stents
+      could be serially dilated to >/=20 mm. Foreshortening occurred at larger
+      diameters, but varied significantly among different stent types. Serial dilation
+      offered more consistent results with significantly less foreshortening and more
+      symmetric expansion when compared with direct dilation. Most premounted stents
+      could be fractured when serially dilated. CONCLUSIONS: All tested vascular stents
+      can be dilated beyond their nominal implantation diameter. Serial dilation offers
+      a much more reliable response with uniform expansion, less foreshortening,
+      greater maximal diameter, and improved intentional fracture potential, as
+      compared to direct dilation from the nominal to maximal diameter. In vivo studies
+      are necessary to corroborate these findings in the congenital heart disease
+      population.
+CI  - (c) 2016 Wiley Periodicals, Inc.
+FAU - Danon, Saar
+AU  - Danon S
+AD  - Division of Pediatric Cardiology, Saint Louis University, St. Louis, Mo, USA.
+FAU - Gray, Robert G
+AU  - Gray RG
+AD  - Division of Pediatric Cardiology, University of Utah, Salt Lake City, Utah, USA.
+FAU - Crystal, Matthew A
+AU  - Crystal MA
+AD  - Division of Pediatric Cardiology, Columbia University Medical Center, New York,
+      NY, USA.
+FAU - Morgan, Gareth
+AU  - Morgan G
+AD  - Division of Pediatric Cardiology, Guy's and St Thomas' Hospital, London, United
+      Kingdom.
+FAU - Gruenstein, Daniel H
+AU  - Gruenstein DH
+AD  - Section of Pediatric Cardiology, University of Chicago, Chicago, Ill, USA.
+FAU - Goldstein, Bryan H
+AU  - Goldstein BH
+AD  - The Heart Institute, Cincinnati Children's Hospital Medical Center, Cincinnati,
+      Ohio, USA.
+FAU - Gordon, Brent M
+AU  - Gordon BM
+AD  - Division of Pediatric Cardiology, Loma Linda University Children's Hospital, Loma
+      Linda, Calif, USA.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20160727
+TA  - Congenit Heart Dis
+JT  - Congenital heart disease
+JID - 101256510
+OTO - NOTNLM
+OT  - Dilation
+OT  - Expansion
+OT  - Foreshortening
+OT  - Fracture
+OT  - Serial
+OT  - Stent
+OT  - Jamshid
+EDAT- 2016/07/28 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2016/07/28 06:00
+PHST- 2016/06/29 [accepted]
+AID - 10.1111/chd.12399 [doi]
+PST - aheadofprint
+SO  - Congenit Heart Dis. 2016 Jul 27. doi: 10.1111/chd.12399.
+
+PMID- 27463050
+OWN - NLM
+STAT- Publisher
+DA  - 20160727
+LR  - 20160727
+IS  - 1747-0803 (Electronic)
+IS  - 1747-079X (Linking)
+DP  - 2016 Jul 27
+TI  - Expansion Characteristics of Stents Used in Congenital Heart Disease: Serial
+      Dilation Offers Improved Expansion Potential Compared to Direct Dilation: Results
+      from a Pediatric Interventional Cardiology Early Career Society (PICES)
+      Investigation.
+LID - 10.1111/chd.12399 [doi]
+AB  - OBJECTIVE: Intravascular, stents are now routinely used to treat young patients
+      with vascular stenoses. Future stent redilations are often necessary to account
+      for somatic growth. The purpose of this study was to compile a database of
+      characteristics for stents commonly used in the treatment of congenital heart
+      disease patients, and compare serial dilation to direct dilation to the maximal
+      diameter. DESIGN: A standardized bench testing protocol was established and
+      utilized in the assessment of all stents. Ultra high pressure balloons were used
+      to serially dilate each stent by set increments until the stent reached at least
+      24 mm in diameter, developed a napkin-ring configuration, or fractured. Length
+      and diameter of each stent were measured at baseline and following each stage of
+      dilation. Maximal stent diameters, foreshortening properties, and ability to
+      fracture were reported. Stents were then tested for direct dilation from the
+      primary diameter to the maximal diameter, and the same data was obtained.
+      RESULTS: A total of 127 stents were bench-tested, 80 of which were serially
+      dilated and 47 directly dilated. Most premounted stents could be serially dilated
+      to approximately twice their stated nominal diameter. All tested unmounted stents
+      could be serially dilated to >/=20 mm. Foreshortening occurred at larger
+      diameters, but varied significantly among different stent types. Serial dilation
+      offered more consistent results with significantly less foreshortening and more
+      symmetric expansion when compared with direct dilation. Most premounted stents
+      could be fractured when serially dilated. CONCLUSIONS: All tested vascular stents
+      can be dilated beyond their nominal implantation diameter. Serial dilation offers
+      a much more reliable response with uniform expansion, less foreshortening,
+      greater maximal diameter, and improved intentional fracture potential, as
+      compared to direct dilation from the nominal to maximal diameter. In vivo studies
+      are necessary to corroborate these findings in the congenital heart disease
+      population.
+CI  - (c) 2016 Wiley Periodicals, Inc.
+FAU - Danon, Saar
+AU  - Danon S
+AD  - Division of Pediatric Cardiology, Saint Louis University, St. Louis, Mo, USA.
+FAU - Gray, Robert G
+AU  - Gray RG
+AD  - Division of Pediatric Cardiology, University of Utah, Salt Lake City, Utah, USA.
+FAU - Crystal, Matthew A
+AU  - Crystal MA
+AD  - Division of Pediatric Cardiology, Columbia University Medical Center, New York,
+      NY, USA.
+FAU - Morgan, Gareth
+AU  - Morgan G
+AD  - Division of Pediatric Cardiology, Guy's and St Thomas' Hospital, London, United
+      Kingdom.
+FAU - Gruenstein, Daniel H
+AU  - Gruenstein DH
+AD  - Section of Pediatric Cardiology, University of Chicago, Chicago, Ill, USA.
+FAU - Goldstein, Bryan H
+AU  - Goldstein BH
+AD  - The Heart Institute, Cincinnati Children's Hospital Medical Center, Cincinnati,
+      Ohio, USA.
+FAU - Gordon, Brent M
+AU  - Gordon BM
+AD  - Division of Pediatric Cardiology, Loma Linda University Children's Hospital, Loma
+      Linda, Calif, USA.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20160727
+TA  - Congenit Heart Dis
+JT  - Congenital heart disease
+JID - 101256510
+OTO - NOTNLM
+OT  - Dilation
+OT  - Expansion
+OT  - Foreshortening
+OT  - Fracture
+OT  - Serial
+OT  - Stent
+OT  - Jamshid
+EDAT- 2016/07/28 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2016/07/28 06:00
+PHST- 2016/06/29 [accepted]
+AID - 10.1111/chd.12399 [doi]
+PST - aheadofprint
+SO  - Congenit Heart Dis. 2016 Jul 27. doi: 10.1111/chd.12399.
+
+PMID- 27461982
+OWN - NLM
+STAT- Publisher
+DA  - 20160727
+LR  - 20160727
+IS  - 1405-9940 (Electronic)
+DP  - 2016 Jul 22
+TI  - [Partial anomalous pulmonary venous connection in children, a challenging
+      diagnose in pediatric cardiology].
+LID - S1405-9940(16)30065-9 [pii]
+LID - 10.1016/j.acmx.2016.06.005 [doi]
+FAU - Figueras-Coll, Marc
+AU  - Figueras-Coll M
+AD  - Servicio de Cardiologia Pediatrica, Hospital Universitario Doctor Josep Trueta,
+      Universidad de Girona, Girona, Espana; Servicio de Cardiologia Pediatrica,
+      Hospital Universitario Vall d'Hebron, Universidad Autonoma de Barcelona,
+      Barcelona, Espana. Electronic address: mfiguerascoll@gmail.com.
+FAU - Sabate-Rotes, Anna
+AU  - Sabate-Rotes A
+AD  - Servicio de Cardiologia Pediatrica, Hospital Universitario Vall d'Hebron,
+      Universidad Autonoma de Barcelona, Barcelona, Espana.
+FAU - Canete-Abajo, Noemi
+AU  - Canete-Abajo N
+AD  - Servicio de Radiologia, Hospital Universitario Doctor Josep Trueta, Universidad
+      de Girona, Girona, Espana.
+LA  - SPA
+PT  - JOURNAL ARTICLE
+TT  - Conexion anomala parcial de venas pulmonares, un reto diagnostico en cardiologia
+      pediatrica.
+DEP - 20160722
+TA  - Arch Cardiol Mex
+JT  - Archivos de cardiologia de Mexico
+JID - 101126728
+EDAT- 2016/07/28 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2016/07/28 06:00
+PHST- 2016/02/12 [received]
+PHST- 2016/06/08 [revised]
+PHST- 2016/06/09 [accepted]
+AID - S1405-9940(16)30065-9 [pii]
+AID - 10.1016/j.acmx.2016.06.005 [doi]
+PST - aheadofprint
+SO  - Arch Cardiol Mex. 2016 Jul 22. pii: S1405-9940(16)30065-9. doi:
+      10.1016/j.acmx.2016.06.005.
+
+PMID- 27458636
+OWN - NLM
+STAT- In-Process
+DA  - 20160725
+IS  - 1522-9645 (Electronic)
+IS  - 0195-668X (Linking)
+VI  - 37
+IP  - 10
+DP  - 2016 Mar 7
+TI  - CardioPulse: A new European Society of Cardiology research database: Atlas of
+      Cardiology.
+PG  - 801
+FAU - Tofield, A
+AU  - Tofield A
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Eur Heart J
+JT  - European heart journal
+JID - 8006263
+SB  - IM
+EDAT- 2016/07/28 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2016/07/27 06:00
+PST - ppublish
+SO  - Eur Heart J. 2016 Mar 7;37(10):801.
+
+PMID- 27455384
+OWN - NLM
+STAT- Publisher
+DA  - 20160725
+LR  - 20160725
+IS  - 1531-698X (Electronic)
+IS  - 1040-8703 (Linking)
+DP  - 2016 Jul 22
+TI  - Advances in pediatric cardiology 2016.
+FAU - Bernstein, Daniel
+AU  - Bernstein D
+AD  - Department of Pediatrics (Cardiology), Stanford University, Stanford, California,
+      USA.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20160722
+TA  - Curr Opin Pediatr
+JT  - Current opinion in pediatrics
+JID - 9000850
+EDAT- 2016/07/28 06:00
+MHDA- 2016/07/28 06:00
+CRDT- 2016/07/26 06:00
+AID - 10.1097/MOP.0000000000000406 [doi]
+PST - aheadofprint
+SO  - Curr Opin Pediatr. 2016 Jul 22.
+
+PMID- 27440236
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 0037-5675 (Print)
+IS  - 0037-5675 (Linking)
+VI  - 57
+IP  - 7
+DP  - 2016 Jul
+TI  - Changes in the practice of cardiology: therapies at the forefront of science.
+PG  - 344-6
+LID - 10.11622/smedj.2016115 [doi]
+FAU - Loh, Joshua Ping-Yun
+AU  - Loh JP
+AD  - Department of Cardiology, National University Heart Centre, National University
+      Health System, Singapore.
+AD  - Department of Medicine, Yong Loo Lin School of Medicine, National University of
+      Singapore, Singapore.
+FAU - Poh, Kian-Keong
+AU  - Poh KK
+AD  - Department of Cardiology, National University Heart Centre, National University
+      Health System, Singapore.
+AD  - Department of Medicine, Yong Loo Lin School of Medicine, National University of
+      Singapore, Singapore.
+LA  - eng
+PT  - Journal Article
+PL  - Singapore
+TA  - Singapore Med J
+JT  - Singapore medical journal
+JID - 0404516
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/22 06:00
+AID - j57/7/344 [pii]
+AID - 10.11622/smedj.2016115 [doi]
+PST - ppublish
+SO  - Singapore Med J. 2016 Jul;57(7):344-6. doi: 10.11622/smedj.2016115.
+
+PMID- 27438308
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 2380-6591 (Electronic)
+VI  - 1
+IP  - 4
+DP  - 2016 Jul 1
+TI  - JAMA Cardiology.
+PG  - 374
+LID - 10.1001/jamacardio.2015.0021 [doi]
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Cardiol
+JT  - JAMA cardiology
+JID - 101676033
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/21 06:00
+AID - 2535305 [pii]
+AID - 10.1001/jamacardio.2015.0021 [doi]
+PST - ppublish
+SO  - JAMA Cardiol. 2016 Jul 1;1(4):374. doi: 10.1001/jamacardio.2015.0021.
+
+PMID- 27438097
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 2380-6591 (Electronic)
+VI  - 1
+IP  - 3
+DP  - 2016 Jun 1
+TI  - JAMA Cardiology.
+PG  - 244
+LID - 10.1001/jamacardio.2015.0015 [doi]
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Cardiol
+JT  - JAMA cardiology
+JID - 101676033
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/21 06:00
+AID - 2527873 [pii]
+AID - 10.1001/jamacardio.2015.0015 [doi]
+PST - ppublish
+SO  - JAMA Cardiol. 2016 Jun 1;1(3):244. doi: 10.1001/jamacardio.2015.0015.
+
+PMID- 27437878
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 2380-6591 (Electronic)
+VI  - 1
+IP  - 2
+DP  - 2016 May 1
+TI  - JAMA Cardiology.
+PG  - 116
+LID - 10.1001/jamacardio.2015.0009 [doi]
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Cardiol
+JT  - JAMA cardiology
+JID - 101676033
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/21 06:00
+AID - 2522679 [pii]
+AID - 10.1001/jamacardio.2015.0009 [doi]
+PST - ppublish
+SO  - JAMA Cardiol. 2016 May 1;1(2):116. doi: 10.1001/jamacardio.2015.0009.
+
+PMID- 27437647
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 2380-6591 (Electronic)
+VI  - 1
+IP  - 1
+DP  - 2016 Apr 1
+TI  - JAMA Cardiology: A New Cardiovascular Journal.
+PG  - 11-2
+LID - 10.1001/jamacardio.2015.0358 [doi]
+FAU - Bonow, Robert O
+AU  - Bonow RO
+AD  - Department of Medicine, Northwestern University Feinberg School of Medicine,
+      Chicago, Illinois2Editor, JAMA Cardiology.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Cardiol
+JT  - JAMA cardiology
+JID - 101676033
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/21 06:00
+AID - 2492413 [pii]
+AID - 10.1001/jamacardio.2015.0358 [doi]
+PST - ppublish
+SO  - JAMA Cardiol. 2016 Apr 1;1(1):11-2. doi: 10.1001/jamacardio.2015.0358.
+
+PMID- 27437644
+OWN - NLM
+STAT- In-Data-Review
+DA  - 20160721
+IS  - 2380-6591 (Electronic)
+VI  - 1
+IP  - 1
+DP  - 2016 Apr 1
+TI  - JAMA Cardiology.
+PG  - 2
+LID - 10.1001/jamacardio.2015.0003 [doi]
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Cardiol
+JT  - JAMA cardiology
+JID - 101676033
+SB  - IM
+EDAT- 2016/07/22 06:00
+MHDA- 2016/07/22 06:00
+CRDT- 2016/07/21 06:00
+AID - 2515900 [pii]
+AID - 10.1001/jamacardio.2015.0003 [doi]
+PST - ppublish
+SO  - JAMA Cardiol. 2016 Apr 1;1(1):2. doi: 10.1001/jamacardio.2015.0003.
